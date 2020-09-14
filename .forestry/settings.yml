@@ -4,9 +4,16 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: heading
+  label: Experience
 - type: directory
   path: projects
   label: Projects
+  create: all
+  match: "**/*"
+- type: directory
+  path: ''
+  label: Experience
   create: all
   match: "**/*"
 - type: document
