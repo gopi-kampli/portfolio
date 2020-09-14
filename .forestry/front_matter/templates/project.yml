@@ -18,6 +18,7 @@ fields:
     use_select: false
 pages:
 - Work Experience/internship-deep-learning.md
+- Work Experience/internship-vr-ar.md
 - Work Experience/work-student-data-science.md
 - projects/molecular-gastronomy.md
 - projects/the-london-book-fair.md
