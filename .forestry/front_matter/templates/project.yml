@@ -18,8 +18,5 @@ fields:
     use_select: false
 pages:
 - projects/molecular-gastronomy.md
-- projects/molecular-gastronomy.md
 - projects/the-london-book-fair.md
-- projects/the-london-book-fair.md
-- projects/°-jupiter-calendar.md
 - projects/°-jupiter-calendar.md
